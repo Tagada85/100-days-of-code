@@ -14,3 +14,6 @@ Managed to code for an hour I think. I can see the cards that are picked. Need t
 
 ### Day 5: January 7th, 2017
 Struggling with some logic when there are two numbers. Player two always wins the cards. I don't know what is going on yet.
+
+### Day 6: January 8th, 2017
+Solved logic problems, with numbers and same values cards. Need to work on animations now.
