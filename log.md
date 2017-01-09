@@ -17,3 +17,6 @@ Struggling with some logic when there are two numbers. Player two always wins th
 
 ### Day 6: January 8th, 2017
 Solved logic problems, with numbers and same values cards. Need to work on animations now.
+
+### Day 7: January 9th, 2017
+Failed at implementing animations for the cards. Game is done otherwise.
