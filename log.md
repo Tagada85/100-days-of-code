@@ -21,5 +21,8 @@ Solved logic problems, with numbers and same values cards. Need to work on anima
 ### Day 7: January 9th, 2017
 Failed at implementing animations for the cards. Game is done otherwise.
 
-### Day 8 January 11th, 2017
+### Day 8: January 11th, 2017
 Setting up second project. Made with create-react-app. Started some components.
+
+### Day 9: January 12th, 2017
+Configured react-router, added links to the diary application.
