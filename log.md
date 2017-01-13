@@ -26,3 +26,6 @@ Setting up second project. Made with create-react-app. Started some components.
 
 ### Day 9: January 12th, 2017
 Configured react-router, added links to the diary application.
+
+### Day 10: January 13th, 2017
+Added cards editors. Understood refs in React.
