@@ -29,3 +29,6 @@ Configured react-router, added links to the diary application.
 
 ### Day 10: January 13th, 2017
 Added cards editors. Understood refs in React.
+
+### Day 11: January 14th, 2017
+Wrote some tests with Jest and Enzyme
