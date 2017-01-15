@@ -32,3 +32,6 @@ Added cards editors. Understood refs in React.
 
 ### Day 11: January 14th, 2017
 Wrote some tests with Jest and Enzyme
+
+### Day 12: January 15th, 2017
+Wrote more tests. Added a express server.
