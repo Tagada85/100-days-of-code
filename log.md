@@ -35,3 +35,6 @@ Wrote some tests with Jest and Enzyme
 
 ### Day 12: January 15th, 2017
 Wrote more tests. Added a express server.
+
+### Day 13: January 16th, 2017
+Tried to make the proxy in my app work. Unsuccessfull so far.
