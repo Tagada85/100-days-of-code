@@ -38,3 +38,7 @@ Wrote more tests. Added a express server.
 
 ### Day 13: January 16th, 2017
 Tried to make the proxy in my app work. Unsuccessfull so far.
+
+### Day 14: January 17th, 2017
+Solved proxy issue. Just added an unecessary parameter to a function. Callback wasn't called ...
+Added mongoose connection and some tests.
