@@ -45,3 +45,6 @@ Added mongoose connection and some tests.
 
 ### Day 15: January 18th, 2017
 Not much done. Database and models up and running. Added few more tests about models.
+
+### Day 16: January 19th, 2017
+Struggled over a few katas at codewars.
