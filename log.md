@@ -48,3 +48,6 @@ Not much done. Database and models up and running. Added few more tests about mo
 
 ### Day 16: January 19th, 2017
 Struggled over a few katas at codewars.
+
+### Day 17: January 21th, 2017
+Added functionnality with databases and cards based on dates. Need to work on authentification.
