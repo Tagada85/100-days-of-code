@@ -51,3 +51,6 @@ Struggled over a few katas at codewars.
 
 ### Day 17: January 21th, 2017
 Added functionnality with databases and cards based on dates. Need to work on authentification.
+
+### Day 18: January 23th, 2017
+Expanded my knowledge on git. Started the notebook.
