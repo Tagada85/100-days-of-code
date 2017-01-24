@@ -54,3 +54,6 @@ Added functionnality with databases and cards based on dates. Need to work on au
 
 ### Day 18: January 23th, 2017
 Expanded my knowledge on git. Started the notebook.
+
+### Day 19: January 24th, 2017
+Moar git, started to learn some C.
