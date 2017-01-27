@@ -57,3 +57,9 @@ Expanded my knowledge on git. Started the notebook.
 
 ### Day 19: January 24th, 2017
 Moar git, started to learn some C.
+
+### Day 20: January 25th, 2017
+Did some more C, and a bit of React for my app.
+
+### Day 21: January 27th, 2017
+More C, arrays and CTYPE functions
