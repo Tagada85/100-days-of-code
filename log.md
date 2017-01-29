@@ -63,3 +63,6 @@ Did some more C, and a bit of React for my app.
 
 ### Day 21: January 27th, 2017
 More C, arrays and CTYPE functions
+
+### Day 22: January 28th, 2017
+Played with the drag and drop API
